@@ -1,0 +1,54 @@
+
+    
+    body {
+      background-color: darkblue;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+
+    
+    .hero-name {
+      font-size: 60px;
+      font-weight: bold;
+      color: yellow;
+      text-shadow: 3px 3px orange;
+    }
+
+    
+    .tagline {
+      font-style: italic;
+      color: lightblue;
+      text-transform: capitalize;
+    }
+
+    
+    .label {
+      text-transform: uppercase;
+      text-decoration: underline;
+      color: coral;
+    }
+
+    .power {
+      font-weight: bold;
+      color: lightgreen;
+    }
+
+   
+    .subjects {
+      text-decoration: line-through;
+      color: gray;
+    }
+
+    
+    .badge {
+      font-size: 28px;
+      font-weight: bold;
+      color: gold;
+      transform: rotate(15deg);
+    }
+
+  
+    .made-by {
+      color: coral;
+      font-style: italic;
+    }
